@@ -1,4 +1,4 @@
-# Taming Lookup Tables for Image Retouching (CVPR2024 submission)
+# Taming Lookup Tables for Image Retouching
 
 ## Requirements and Dependencies
 + python==3.7
